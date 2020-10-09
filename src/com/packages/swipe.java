@@ -37,5 +37,8 @@ public class swipe extends AppiumClass {
 		
 		
 	}
+	public static void Sample(){
+		
+	}
 
 }
