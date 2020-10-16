@@ -15,5 +15,8 @@
 	<classpathentry kind="lib" path="C:/Users/lenovo/Documents/Appium/APp/commons-lang3-3.11/commons-lang3-3.11-sources.jar"/>
 	<classpathentry kind="lib" path="C:/Users/lenovo/Documents/Appium/APp/commons-lang3-3.11/commons-lang3-3.11-tests.jar"/>
 	<classpathentry kind="lib" path="C:/Users/lenovo/Documents/Appium/APp/commons-lang3-3.11/commons-lang3-3.11-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/commons-net-3.7.1/commons-net-3.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/commons-net-3.7.1/commons-net-3.7.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/commons-net-3.7.1/commons-net-examples-3.7.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

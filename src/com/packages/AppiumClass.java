@@ -20,7 +20,7 @@ public class AppiumClass {
 		
 		// TODO Auto-generated method stub
 		File file = new File("src");
-		File app = new File(file,"ApiDemos-debug.apk");
+		File app = new File(file,"General-Store.apk");
 		DesiredCapabilities cap = new DesiredCapabilities();
 		cap.setCapability(MobileCapabilityType.DEVICE_NAME, "Android_test");
 		cap.setCapability(MobileCapabilityType.APP, app.getAbsolutePath());
